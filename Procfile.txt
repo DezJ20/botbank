@@ -1,1 +1,1 @@
-web: gunicorn main:botbank
+web: gunicorn botbank:app
